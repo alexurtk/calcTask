@@ -1,4 +1,4 @@
-import java.util.ArrayList;
+﻿import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Stack;
@@ -20,6 +20,7 @@ public class Main {
     //номер текущего char из входной строки
     static int inStrPos = 0;
 
+//test
 
     /**
      * Получение символа из входной строки
